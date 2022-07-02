@@ -1,1 +1,1 @@
-# user-repository
+# user/repository
